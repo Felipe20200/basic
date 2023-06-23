@@ -1,0 +1,10 @@
+# Configuration options for Jekyll site
+title: My Jekyll Site
+description: A simple Jekyll site
+theme: my-theme
+plugins:
+  - jekyll-plugin-1
+  - jekyll-plugin-2
+# Additional configuration options...
+exclude:
+  - backend
